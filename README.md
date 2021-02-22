@@ -1,3 +1,5 @@
+![explorer screenshot](https://i.imgur.com/VWcnfMC.png)
+
 # dev-environment-lab
 
 ## OS
@@ -82,10 +84,6 @@ main
 ## Git Merge Behavior
 
 false
-
-## images 
-![Screenshot](https://imgur.com/CvQMxWY "Screenshot")
-
 
 
 ## Global Git Ignore
